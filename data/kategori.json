@@ -1,0 +1,10 @@
+[
+  {"id":"keluarga","nama":"Keluarga & Kekerabatan","deskripsi":"Sapaan, hubungan keluarga, dan rasa persaudaraan.","ikon":"groups"},
+  {"id":"alam","nama":"Alam & Mahakam","deskripsi":"Lingkungan, sungai, suasana, dan kehidupan sekitar.","ikon":"water"},
+  {"id":"aktivitas","nama":"Aktivitas","deskripsi":"Kegiatan, kebiasaan, dan tindakan sehari-hari.","ikon":"directions_run"},
+  {"id":"budaya","nama":"Budaya & Tradisi","deskripsi":"Benda, adat, dan praktik budaya lokal.","ikon":"temple_buddhist"},
+  {"id":"makanan","nama":"Makanan & Kuliner","deskripsi":"Bahan pangan, hidangan, dan kebiasaan makan.","ikon":"restaurant"},
+  {"id":"hewan","nama":"Hewan & Satwa","deskripsi":"Nama satwa dan istilah fauna di lingkungan Kutai.","ikon":"pets"},
+  {"id":"tempat","nama":"Tempat & Wilayah","deskripsi":"Tempat tinggal, ruang, kampung, dan bentang wilayah.","ikon":"landscape"},
+  {"id":"ungkapan","nama":"Ungkapan & Pepatah","deskripsi":"Ungkapan sehari-hari dan kata bernuansa kiasan.","ikon":"chat_bubble"}
+]
